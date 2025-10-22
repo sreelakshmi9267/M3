@@ -2,7 +2,7 @@
 
 ## AIM
 
-To write a program to prepare EMI calculator using function with return type and without arguments.
+To write a program to prepare EMI calculator using function without return type and without arguments.
 
 ## ALGORITHM
 
